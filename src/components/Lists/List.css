@@ -1,0 +1,31 @@
+.favorites_list{
+    margin-top: 50px;
+}
+
+.favorites_list_item{
+    margin: 10px 0;
+}
+
+.favorites_list_item a{
+    font-size: 18px;
+    color: #000000;
+    text-decoration: none;
+    text-transform: capitalize;
+}
+
+.favorites_list_item a:hover{
+    text-decoration: underline;
+}
+
+.list_page{
+    padding: 50px calc(50% - 500px) 50px;
+    background-color: #000000;
+    height: 100%;
+}
+.list_page_item{
+    margin: 10px 0;
+}
+.list_page_item_link{
+    color: #fff;
+    font-size: 18px;
+}

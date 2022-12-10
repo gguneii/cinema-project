@@ -1,0 +1,21 @@
+.header {
+    background: #496DDB;
+    padding: 20px calc(50% - 500px) 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.header__title {
+    font-family: 'Luckiest Guy', cursive;
+    color: #FFEEDB;
+    font-size: 45px;
+    margin-left: 40px;
+}
+
+.nav_link{
+    font-size: 18px;
+    line-height: 26px;
+    color: #fff;
+    text-decoration: none;
+}
