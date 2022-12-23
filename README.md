@@ -1,2 +1,2 @@
-# react-project
+# cinema-project
 # Alion: done ✅
